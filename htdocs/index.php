@@ -9,3 +9,6 @@ HELLO, NEW BRANCH F
 
 Branch Master
 >>>>>>> master
+
+
+new line 2
